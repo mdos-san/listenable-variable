@@ -1,0 +1,25 @@
+{
+  "name": "@mdos-san/listenable-variable",
+  "version": "0.1.0",
+  "description": "Create a new variable and run one or multiples callbacks each time the variable is modified ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdos-san/listenable-variable.git"
+  },
+  "keywords": [
+    "listenable",
+    "variable",
+    "listenable-variable",
+    "mdos-san"
+  ],
+  "author": "mdos-san",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdos-san/listenable-variable/issues"
+  },
+  "homepage": "https://github.com/mdos-san/listenable-variable#readme"
+}
