@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mdos-san/listenable-variable/issues"
   },
-  "homepage": "https://github.com/mdos-san/listenable-variable#readme"
+  "homepage": "https://github.com/mdos-san/listenable-variable#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
