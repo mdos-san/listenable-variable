@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test": "tap --ts",
-    "test:lcov": "tap --ts --coverage-report=text-lcov > ./lcov.info"
+    "test": "tap --ts"
   },
   "repository": {
     "type": "git",
