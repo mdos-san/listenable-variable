@@ -1,0 +1,10 @@
+*.tgz
+.github
+.nyc_output
+.nycrc.json
+coverage
+node_modules
+script
+src
+test
+tsconfig.json

@@ -2,9 +2,11 @@
   "name": "@mdos-san/listenable-variable",
   "version": "0.1.0",
   "description": "Create a new variable and run one or multiples callbacks each time the variable is modified ",
-  "main": "index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "scripts": {
     "build": "tsc",
+    "prepack": "npm run build",
     "test": "tap --ts"
   },
   "repository": {
