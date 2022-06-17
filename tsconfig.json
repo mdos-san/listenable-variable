@@ -1,0 +1,14 @@
+{
+  "includes": ["src/**/*.ts"],
+  "exclude": ["node_modules", "build", "test"],
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "outDir": "./build",
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "esnext"
+  }
+}
